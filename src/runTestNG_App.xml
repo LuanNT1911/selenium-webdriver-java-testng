@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="App" thread-count="3">
+    <parameter name="url" value="http://live.demoguru99.com/index.php/customer/account/create/"/>
+
+    <test name="Run on Chrome">
+        <parameter name = "browser" value ="chrome"/>
+        <classes>
+            <class name="testNG.Topic_06_Loop"/>
+        </classes>
+    </test><!-- Test -->
+</suite> <!-- Suite -->

@@ -1,2 +1,9 @@
 eclipse.preferences.version=1
 encoding//src/api/HelloWorld.java=UTF-8
+encoding//src/testNG/ReportListener.java=UTF-8
+encoding//src/tester/Topic09_Button.java=UTF-8
+encoding//src/tester/Topic_03_WebBrowser_WebElement_APIs.java=UTF-8
+encoding//src/tester/Topic_11_PopUp_IFrame_Frame.java=UTF-8
+encoding//src/tester/Topic_12_Window_Tab.java=UTF-8
+encoding//src/tester/Topic_13_Javascript_Executor.java=UTF-8
+encoding//src/tester/Topic_15_Wait.java=UTF-8

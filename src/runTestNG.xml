@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="Suite" thread-count="3">
+    <suite-files>
+        <suite-file path="runTestNG_App.xml"/>
+        <suite-file path="runTestNG_Mobile.xml"/>
+    </suite-files>
+</suite> <!-- Suite -->
+
